@@ -1,13 +1,11 @@
 {
   "name": "webtoolz",
-  "desc": "Format, validate, diff, and convert JSON to YAML/CSV",
+  "desc": "Format, validate, and convert JSON, and edit Mermaid diagrams.",
   "url": "https://webtoolz.dev",
   "tags": [
     "JSON",
-    "Tools Collections"
+    "Tool Collections"
   ],
-  "maintainers": [
-    "trinhcuong-ast"
-  ],
+  "maintainers": [],
   "addedAt": "2026-01-29"
 }

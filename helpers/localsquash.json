@@ -1,0 +1,11 @@
+{
+  "name": "localsquash",
+  "desc": "Convert/compress video/audio/image files without uploading.",
+  "url": "https://localsquash.com/",
+  "tags": [
+    "Images",
+    "Videos"
+  ],
+  "maintainers": ["xu13"],
+  "addedAt": "2026-03-06"
+}

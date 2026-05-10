@@ -1,0 +1,12 @@
+{
+  "name": "Kolr",
+  "desc": "Generate palettes, check contrast, simulate colorblindness, and extract colors from images and URLs",
+  "url": "https://kolr-app.vercel.app/",
+  "tags": [
+    "Tool Collections"
+  ],
+  "maintainers": [
+    "antoine-granier"
+  ],
+  "addedAt": "2026-03-30"
+}
